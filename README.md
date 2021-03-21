@@ -1,7 +1,7 @@
 ### Hello World 👋
 
 - 🔭 I’m currently working on Python
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning C#
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LittleNightmare&show_icons=true&count_private=true)
 
