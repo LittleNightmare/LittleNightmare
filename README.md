@@ -3,9 +3,9 @@
 - 🔭 I’m currently working on Python
 - 🌱 I’m currently learning C#
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LittleNightmare&show_icons=true&count_private=true)
+![Anurag's github stats](https://github-readme-stats-eta-navy-78.vercel.app/api?username=LittleNightmare&show_icons=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LittleNightmare&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-eta-navy-78.vercel.app/api/top-langs/?username=LittleNightmare&hide=javascript,html,css)](https://github.com/LittleNightmare/github-readme-stats)
 
 <!--
 **LittleNightmare/LittleNightmare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
