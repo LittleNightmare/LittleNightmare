@@ -7,8 +7,6 @@
 
 [![Top Langs](https://github-readme-stats-git-master-littlenightmare.vercel.app/api/top-langs/?username=LittleNightmare&hide=javascript,html,css)](https://github.com/LittleNightmare/github-readme-stats)
 
-入住[爱发电](https://afdian.com/a/LittleNightmare)
-
 <!--
 **LittleNightmare/LittleNightmare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
